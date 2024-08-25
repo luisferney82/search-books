@@ -1,10 +1,18 @@
-# Búsqueda de Libros - Proyecto para Cosmoteca
+# 📚 Búsqueda de Libros - Proyecto para Cosmoteca
+
+Desarrollado con ❤️ por Luis Ferney para Cosmoteca
 
 Este proyecto es una aplicación web de búsqueda de libros desarrollada. Permite a los usuarios buscar libros utilizando la API de Google Books y guardar sus favoritos.
 
-## Demostración
+## 🎥 Visita la aplicacion desplegada en vercel
+
+[Demo en vivo en Vercel](https://search-books-omega.vercel.app)
 
 Aquí tienes una vista previa del proyecto:
+
+**Diseño Responsivo:**
+![Funcionalidad](/src/assets/demo.gif)
+
 
 **Diseño Responsivo:**
 ![Diseño Responsivo](/src/assets/responsive.gif)
@@ -12,30 +20,29 @@ Aquí tienes una vista previa del proyecto:
 **Funcionalidad de Búsqueda y Favoritos:**
 ![Demostración](/src/assets/demo.gif)
 
+## ✨ Características
 
-## Características
+- 🔍 Búsqueda de libros en tiempo real
+- 📖 Visualización de resultados con imágenes de portada, título, autores y descripción
+- ❤️ Funcionalidad para agregar y quitar libros de favoritos
+- 📱 Diseño responsivo y atractivo
+- 🎨 Interfaz de usuario intuitiva y fácil de usar
 
-- Búsqueda de libros en tiempo real
-- Visualización de resultados con imágenes de portada, título, autores y descripción
-- Funcionalidad para agregar y quitar libros de favoritos
-- Diseño responsivo y atractivo
-- Interfaz de usuario intuitiva y fácil de usar
+## 🛠️ Tecnologías Utilizadas
 
-## Tecnologías Utilizadas
+- ⚛️ React
+- 🔷 TypeScript
+- 🎨 Tailwind CSS
+- 📚 API de Google Books
 
-- React
-- TypeScript
-- Tailwind CSS
-- API de Google Books
-
-## Requisitos Previos
+## 📋 Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado:
 
 - Node.js (versión 14.0 o superior)
 - npm (normalmente viene con Node.js)
 
-## Instalación
+## 🚀 Instalación
 
 1. Clona el repositorio:
    ```
@@ -52,7 +59,7 @@ Antes de comenzar, asegúrate de tener instalado:
    npm install
    ```
 
-## Ejecución del Proyecto
+## 🏃‍♂️ Ejecución del Proyecto
 
 Para ejecutar el proyecto en modo de desarrollo:
 
@@ -65,7 +72,7 @@ Para ejecutar el proyecto en modo de desarrollo:
 
 La página se recargará automáticamente si haces cambios en el código.
 
-## Construcción para Producción
+## 🏗️ Construcción para Producción
 
 Para crear una versión optimizada para producción:
 
@@ -75,22 +82,22 @@ npm run build
 
 Esto generará una carpeta `build` con los archivos estáticos optimizados, listos para ser desplegados.
 
-## Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
 - `src/components/`: Contiene los componentes React de la aplicación
 - `src/types/`: Definiciones de tipos TypeScript
 - `src/App.tsx`: Componente principal de la aplicación
 - `public/`: Archivos estáticos como el HTML base e imágenes
 
-## Contribuciones
+## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir lo que te gustaría cambiar o añadir.
 
-## Licencia
+## 📄 Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Contacto
+## 📞 Contacto
 
 Luis Ferney - [lmorenodi@unal.edu.co](mailto:lmorenodi@unal.edu.co)
 
